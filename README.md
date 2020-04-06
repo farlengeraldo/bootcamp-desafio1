@@ -1,1 +1,2 @@
-# bootcamp desafio 1
+# BootCamp Desafio 1
+Criando um cronograma de Estudos
